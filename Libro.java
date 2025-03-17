@@ -25,7 +25,7 @@ public class Libro {
     /**
      * Obtiene el título del libro
      *
-     * @return El titulo del libro
+     * @return devuelve el titulo del libro
      */
     public String getTitulo() {
         return titulo;
@@ -43,7 +43,7 @@ public class Libro {
     /**
      * Obtiene el autor del libro
      *
-     * @return el autor del libro
+     * @return devuelve el autor del libro
      */
     public String getAutor() {
         return autor;
