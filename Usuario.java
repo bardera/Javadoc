@@ -15,7 +15,7 @@ public class Usuario {
      * Constructor de la clase usuario
      *
      * @param nombre Nombre del usuario
-     * @param edad Edad del usuario
+     * @param edad Es la edad del usuario
      */
 
     public Usuario(String nombre, int edad) {
@@ -35,7 +35,7 @@ public class Usuario {
     /**
      * Establece un nuevo nombre para el usuario
      *
-     * @param nombre Nuevo nombre del usuario
+     * @param nombre Es el nuevo nombre del usuario
      */
     public void setNombre(String nombre) {
         this.nombre = nombre;
