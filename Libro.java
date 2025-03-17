@@ -34,7 +34,7 @@ public class Libro {
     /**
      * Establece un nuevo título para el libro
      *
-     * @param titulo Nuevo título del libro
+     * @param titulo Es el nuevo título del libro
      */
     public void setTitulo(String titulo) {
         this.titulo = titulo;
@@ -52,7 +52,7 @@ public class Libro {
     /**
      * Establece el nuevo autor del libro
      *
-     * @param autor Nuevo autor del libro
+     * @param autor Es el nuevo autor del libro
      */
     public void setAutor(String autor) {
         this.autor = autor;
